@@ -2,3 +2,4 @@
 
 Difference between apt and aptitude
     aptitude 
+AppArmor
