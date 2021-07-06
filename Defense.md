@@ -1,5 +1,7 @@
 # Defense for Debian VM
 
-Difference between apt and aptitude
+ # Difference between apt and aptitude
     aptitude 
-AppArmor
+# AppArmor
+# LVM
+LVM (Logical Volume Manager) 
